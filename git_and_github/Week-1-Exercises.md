@@ -4,9 +4,9 @@
 
 ---
 
-## 📝 Important Note
+## 📝 Instructions Overview
 
-See **Week-1-Exercise-Guide.md** for detailed step-by-step instructions on how to complete these exercises!
+Complete all 10 exercises in order to create a fully functional Git and GitHub portfolio project. Start by installing Git and setting up your local environment (Exercises 1-3), then initialize a repository in your `git-practice` folder and make your first commit with a README and .gitignore file (Exercise 4). Next, add project files (HTML, CSS, JavaScript, README updates) across commits 2-5 to build foundational content (Exercise 5). Create a feature branch `feature/add-footer`, add and style a footer with two commits (Exercise 6), then merge the branch back to main and delete it (Exercise 7). Continue adding more content with commits 9-10 by implementing a navigation menu with styling (Exercise 8). Create a GitHub account, set up a new public repository named `git-practice-seedwoc`, and push your local repository with all 10 commits to GitHub (Exercises 9-10). By the end, you should have 10 meaningful commits visible on GitHub, demonstrating your understanding of version control, branching, merging, and collaboration workflows. **For detailed step-by-step instructions with exact commands, see Week-1-Exercise-Guide.md.**
 
 ---
 
